@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>token</key>
+	<dict>
+		<key>key</key>
+		<string>token</string>
+		<key>value</key>
+		<string>cae60a338709915693f330b2a481cf938f44f5f0</string>
+	</dict>
+	<key>BaseURL</key>
+	<dict>
+		<key>key</key>
+		<string>baseURL</string>
+		<key>value</key>
+		<string>https://api.github.com</string>
+	</dict>
+	<key>EPTrending</key>
+	<dict>
+		<key>key</key>
+		<string>EPTrending</string>
+		<key>value</key>
+		<string>https://github-trending-api.now.sh/repositories?since=daily</string>
+	</dict>
+	<key>EPUserInfo</key>
+	<dict>
+		<key>key</key>
+		<string>EPUserInfo</string>
+		<key>value</key>
+		<string>/search/users?q=%@ in:login&amp;per_page=1</string>
+	</dict>
+	<key>EPReadme</key>
+	<dict>
+		<key>key</key>
+		<string>EPReadme</string>
+		<key>value</key>
+		<string>https://raw.githubusercontent.com/%@/%@/master/README.md</string>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,809 @@
+{
+  "stubArray": [
+    {
+      "author": "fabiospampinato",
+      "name": "notable",
+      "url": "https://github.com/fabiospampinato/notable",
+      "description": "The markdown-based note-taking app that doesn't suck.",
+      "language": "TypeScript",
+      "languageColor": "#2b7489",
+      "stars": 1998,
+      "forks": 56,
+      "currentPeriodStars": 1265,
+      "builtBy": [
+        {
+          "username": "fabiospampinato",
+          "href": "https://github.com/fabiospampinato",
+          "avatar": "https://avatars1.githubusercontent.com/u/1812093"
+        },
+        {
+          "username": "anto-christo",
+          "href": "https://github.com/anto-christo",
+          "avatar": "https://avatars0.githubusercontent.com/u/22641196"
+        },
+        {
+          "username": "dps",
+          "href": "https://github.com/dps",
+          "avatar": "https://avatars3.githubusercontent.com/u/237355"
+        },
+        {
+          "username": "Krakaw",
+          "href": "https://github.com/Krakaw",
+          "avatar": "https://avatars0.githubusercontent.com/u/41575888"
+        }
+      ]
+    },
+    {
+      "author": "2d-inc",
+      "name": "HistoryOfEverything",
+      "url": "https://github.com/2d-inc/HistoryOfEverything",
+      "description": "Flutter Launch Timeline Demo",
+      "language": "Dart",
+      "languageColor": "#00B4AB",
+      "stars": 637,
+      "forks": 53,
+      "currentPeriodStars": 609,
+      "builtBy": [
+        {
+          "username": "luigi-rosso",
+          "href": "https://github.com/luigi-rosso",
+          "avatar": "https://avatars0.githubusercontent.com/u/454182"
+        },
+        {
+          "username": "umberto-sonnino",
+          "href": "https://github.com/umberto-sonnino",
+          "avatar": "https://avatars3.githubusercontent.com/u/2258736"
+        },
+        {
+          "username": "neurowave",
+          "href": "https://github.com/neurowave",
+          "avatar": "https://avatars3.githubusercontent.com/u/1817068"
+        },
+        {
+          "username": "filiph",
+          "href": "https://github.com/filiph",
+          "avatar": "https://avatars0.githubusercontent.com/u/919717"
+        }
+      ]
+    },
+    {
+      "author": "hackerb9",
+      "name": "lsix",
+      "url": "https://github.com/hackerb9/lsix",
+      "description": "Like \"ls\", but for images. Shows thumbnails in terminal using sixel graphics.",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 1479,
+      "forks": 44,
+      "currentPeriodStars": 510,
+      "builtBy": [
+        {
+          "username": "hackerb9",
+          "href": "https://github.com/hackerb9",
+          "avatar": "https://avatars1.githubusercontent.com/u/10174223"
+        },
+        {
+          "username": "saitoha",
+          "href": "https://github.com/saitoha",
+          "avatar": "https://avatars0.githubusercontent.com/u/1162739"
+        }
+      ]
+    },
+    {
+      "author": "avinashpaliwal",
+      "name": "Super-SloMo",
+      "url": "https://github.com/avinashpaliwal/Super-SloMo",
+      "description": "PyTorch implementation of Super SloMo by Jiang et al.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 542,
+      "forks": 65,
+      "currentPeriodStars": 455,
+      "builtBy": [
+        {
+          "username": "avinashpaliwal",
+          "href": "https://github.com/avinashpaliwal",
+          "avatar": "https://avatars3.githubusercontent.com/u/43282710"
+        },
+        {
+          "username": "sniklaus",
+          "href": "https://github.com/sniklaus",
+          "avatar": "https://avatars1.githubusercontent.com/u/1238034"
+        }
+      ]
+    },
+    {
+      "author": "trekhleb",
+      "name": "homemade-machine-learning",
+      "url": "https://github.com/trekhleb/homemade-machine-learning",
+      "description": "🤖 Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained",
+      "language": "Jupyter Notebook",
+      "languageColor": "#DA5B0B",
+      "stars": 2101,
+      "forks": 205,
+      "currentPeriodStars": 439,
+      "builtBy": [
+        {
+          "username": "trekhleb",
+          "href": "https://github.com/trekhleb",
+          "avatar": "https://avatars0.githubusercontent.com/u/3000285"
+        }
+      ]
+    },
+    {
+      "author": "trimstray",
+      "name": "the-book-of-secret-knowledge",
+      "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
+      "description": "💫 A collection of awesome lists, manuals, blogs, hacks, one-liners, cli/web tools and more. Especially for System and Network Administrators, DevOps, Pentesters or Security Researchers.",
+      "stars": 8966,
+      "forks": 689,
+      "currentPeriodStars": 451,
+      "builtBy": [
+        {
+          "username": "trimstray",
+          "href": "https://github.com/trimstray",
+          "avatar": "https://avatars1.githubusercontent.com/u/31127917"
+        },
+        {
+          "username": "lbonanomi",
+          "href": "https://github.com/lbonanomi",
+          "avatar": "https://avatars2.githubusercontent.com/u/5369016"
+        },
+        {
+          "username": "loweryaustin",
+          "href": "https://github.com/loweryaustin",
+          "avatar": "https://avatars0.githubusercontent.com/u/2003860"
+        },
+        {
+          "username": "fabidick22",
+          "href": "https://github.com/fabidick22",
+          "avatar": "https://avatars3.githubusercontent.com/u/8176821"
+        },
+        {
+          "username": "naeluh",
+          "href": "https://github.com/naeluh",
+          "avatar": "https://avatars1.githubusercontent.com/u/477860"
+        }
+      ]
+    },
+    {
+      "author": "ulid",
+      "name": "spec",
+      "url": "https://github.com/ulid/spec",
+      "description": "The canonical spec for ulid",
+      "stars": 482,
+      "forks": 15,
+      "currentPeriodStars": 357,
+      "builtBy": [
+        {
+          "username": "alizain",
+          "href": "https://github.com/alizain",
+          "avatar": "https://avatars2.githubusercontent.com/u/2343007"
+        },
+        {
+          "username": "huxi",
+          "href": "https://github.com/huxi",
+          "avatar": "https://avatars2.githubusercontent.com/u/119647"
+        },
+        {
+          "username": "aarondcohen",
+          "href": "https://github.com/aarondcohen",
+          "avatar": "https://avatars0.githubusercontent.com/u/686655"
+        },
+        {
+          "username": "imdario",
+          "href": "https://github.com/imdario",
+          "avatar": "https://avatars1.githubusercontent.com/u/163009"
+        },
+        {
+          "username": "dcuddeback",
+          "href": "https://github.com/dcuddeback",
+          "avatar": "https://avatars2.githubusercontent.com/u/138065"
+        }
+      ]
+    },
+    {
+      "author": "doocs",
+      "name": "advanced-java",
+      "url": "https://github.com/doocs/advanced-java",
+      "description": "😮 互联网 Java 工程师进阶知识完全扫盲",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 2723,
+      "forks": 448,
+      "currentPeriodStars": 309,
+      "builtBy": [
+        {
+          "username": "yanglbme",
+          "href": "https://github.com/yanglbme",
+          "avatar": "https://avatars3.githubusercontent.com/u/21008209"
+        },
+        {
+          "username": "ImgBotApp",
+          "href": "https://github.com/ImgBotApp",
+          "avatar": "https://avatars2.githubusercontent.com/u/31427850"
+        }
+      ]
+    },
+    {
+      "author": "FavioVazquez",
+      "name": "ds-cheatsheets",
+      "url": "https://github.com/FavioVazquez/ds-cheatsheets",
+      "description": "List of Data Science Cheatsheets to rule the world",
+      "stars": 2568,
+      "forks": 368,
+      "currentPeriodStars": 295,
+      "builtBy": [
+        {
+          "username": "FavioVazquez",
+          "href": "https://github.com/FavioVazquez",
+          "avatar": "https://avatars0.githubusercontent.com/u/10162068"
+        },
+        {
+          "username": "zgrkpnr",
+          "href": "https://github.com/zgrkpnr",
+          "avatar": "https://avatars2.githubusercontent.com/u/10296457"
+        },
+        {
+          "username": "euljr",
+          "href": "https://github.com/euljr",
+          "avatar": "https://avatars2.githubusercontent.com/u/6294868"
+        },
+        {
+          "username": "orsinium",
+          "href": "https://github.com/orsinium",
+          "avatar": "https://avatars0.githubusercontent.com/u/9638362"
+        },
+        {
+          "username": "reedx8",
+          "href": "https://github.com/reedx8",
+          "avatar": "https://avatars1.githubusercontent.com/u/29593134"
+        }
+      ]
+    },
+    {
+      "author": "mahmoud",
+      "name": "awesome-python-applications",
+      "url": "https://github.com/mahmoud/awesome-python-applications",
+      "description": "💿 Free software that works great, and also happens to be open-source Python.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 3965,
+      "forks": 555,
+      "currentPeriodStars": 294,
+      "builtBy": [
+        {
+          "username": "mahmoud",
+          "href": "https://github.com/mahmoud",
+          "avatar": "https://avatars1.githubusercontent.com/u/130193"
+        },
+        {
+          "username": "CameronCairns",
+          "href": "https://github.com/CameronCairns",
+          "avatar": "https://avatars0.githubusercontent.com/u/926682"
+        },
+        {
+          "username": "quobit",
+          "href": "https://github.com/quobit",
+          "avatar": "https://avatars3.githubusercontent.com/u/5762822"
+        },
+        {
+          "username": "moshez",
+          "href": "https://github.com/moshez",
+          "avatar": "https://avatars2.githubusercontent.com/u/422703"
+        },
+        {
+          "username": "smetsjp",
+          "href": "https://github.com/smetsjp",
+          "avatar": "https://avatars1.githubusercontent.com/u/564525"
+        }
+      ]
+    },
+    {
+      "author": "GokuMohandas",
+      "name": "practicalAI",
+      "url": "https://github.com/GokuMohandas/practicalAI",
+      "description": "📚A practical approach to learning machine learning.",
+      "language": "Jupyter Notebook",
+      "languageColor": "#DA5B0B",
+      "stars": 11446,
+      "forks": 1594,
+      "currentPeriodStars": 282,
+      "builtBy": [
+        {
+          "username": "GokuMohandas",
+          "href": "https://github.com/GokuMohandas",
+          "avatar": "https://avatars2.githubusercontent.com/u/8000987"
+        },
+        {
+          "username": "mkaze",
+          "href": "https://github.com/mkaze",
+          "avatar": "https://avatars2.githubusercontent.com/u/8656825"
+        },
+        {
+          "username": "zrsmith92",
+          "href": "https://github.com/zrsmith92",
+          "avatar": "https://avatars3.githubusercontent.com/u/43885"
+        },
+        {
+          "username": "haonan-li",
+          "href": "https://github.com/haonan-li",
+          "avatar": "https://avatars2.githubusercontent.com/u/34729065"
+        },
+        {
+          "username": "Roxyi",
+          "href": "https://github.com/Roxyi",
+          "avatar": "https://avatars2.githubusercontent.com/u/8086358"
+        }
+      ]
+    },
+    {
+      "author": "Tencent",
+      "name": "matrix",
+      "url": "https://github.com/Tencent/matrix",
+      "description": "Matrix is a plugin style, non-invasive APM system developed by WeChat.",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 2316,
+      "forks": 201,
+      "currentPeriodStars": 268,
+      "builtBy": [
+        {
+          "username": "txfelixzhou",
+          "href": "https://github.com/txfelixzhou",
+          "avatar": "https://avatars3.githubusercontent.com/u/15136816"
+        },
+        {
+          "username": "astrozhou",
+          "href": "https://github.com/astrozhou",
+          "avatar": "https://avatars0.githubusercontent.com/u/4270202"
+        }
+      ]
+    },
+    {
+      "author": "thunlp",
+      "name": "GNNPapers",
+      "url": "https://github.com/thunlp/GNNPapers",
+      "description": "Must-read papers on graph neural network (GNN)",
+      "stars": 877,
+      "forks": 129,
+      "currentPeriodStars": 254,
+      "builtBy": [
+        {
+          "username": "jayzzhou-thu",
+          "href": "https://github.com/jayzzhou-thu",
+          "avatar": "https://avatars2.githubusercontent.com/u/46095864"
+        },
+        {
+          "username": "cgq15",
+          "href": "https://github.com/cgq15",
+          "avatar": "https://avatars2.githubusercontent.com/u/24387697"
+        },
+        {
+          "username": "zzy14",
+          "href": "https://github.com/zzy14",
+          "avatar": "https://avatars2.githubusercontent.com/u/17957306"
+        }
+      ]
+    },
+    {
+      "author": "sdushantha",
+      "name": "sherlock",
+      "url": "https://github.com/sdushantha/sherlock",
+      "description": "🔎 Find usernames across over 75 social networks",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 932,
+      "forks": 59,
+      "currentPeriodStars": 230,
+      "builtBy": [
+        {
+          "username": "sdushantha",
+          "href": "https://github.com/sdushantha",
+          "avatar": "https://avatars3.githubusercontent.com/u/27065646"
+        },
+        {
+          "username": "shijuleon",
+          "href": "https://github.com/shijuleon",
+          "avatar": "https://avatars2.githubusercontent.com/u/3200423"
+        },
+        {
+          "username": "hoadlck",
+          "href": "https://github.com/hoadlck",
+          "avatar": "https://avatars3.githubusercontent.com/u/1666888"
+        },
+        {
+          "username": "0xflotus",
+          "href": "https://github.com/0xflotus",
+          "avatar": "https://avatars0.githubusercontent.com/u/26602940"
+        },
+        {
+          "username": "ronaldseoh",
+          "href": "https://github.com/ronaldseoh",
+          "avatar": "https://avatars1.githubusercontent.com/u/4341404"
+        }
+      ]
+    },
+    {
+      "author": "isacikgoz",
+      "name": "gitbatch",
+      "url": "https://github.com/isacikgoz/gitbatch",
+      "description": "manage your git repositories in one place",
+      "language": "Go",
+      "languageColor": "#375eab",
+      "stars": 269,
+      "forks": 9,
+      "currentPeriodStars": 228,
+      "builtBy": [
+        {
+          "username": "isacikgoz",
+          "href": "https://github.com/isacikgoz",
+          "avatar": "https://avatars2.githubusercontent.com/u/2153367"
+        },
+        {
+          "username": "hsorellana",
+          "href": "https://github.com/hsorellana",
+          "avatar": "https://avatars3.githubusercontent.com/u/3346428"
+        },
+        {
+          "username": "utkuufuk",
+          "href": "https://github.com/utkuufuk",
+          "avatar": "https://avatars1.githubusercontent.com/u/15212283"
+        }
+      ]
+    },
+    {
+      "author": "ant-design",
+      "name": "ant-design",
+      "url": "https://github.com/ant-design/ant-design",
+      "description": "🐜 A UI Design Language",
+      "language": "TypeScript",
+      "languageColor": "#2b7489",
+      "stars": 40068,
+      "forks": 13275,
+      "currentPeriodStars": 205,
+      "builtBy": [
+        {
+          "username": "afc163",
+          "href": "https://github.com/afc163",
+          "avatar": "https://avatars0.githubusercontent.com/u/507615"
+        },
+        {
+          "username": "benjycui",
+          "href": "https://github.com/benjycui",
+          "avatar": "https://avatars2.githubusercontent.com/u/3580607"
+        },
+        {
+          "username": "yesmeck",
+          "href": "https://github.com/yesmeck",
+          "avatar": "https://avatars3.githubusercontent.com/u/465125"
+        },
+        {
+          "username": "yiminghe",
+          "href": "https://github.com/yiminghe",
+          "avatar": "https://avatars0.githubusercontent.com/u/200876"
+        },
+        {
+          "username": "jljsj33",
+          "href": "https://github.com/jljsj33",
+          "avatar": "https://avatars3.githubusercontent.com/u/6802825"
+        }
+      ]
+    },
+    {
+      "author": "sdmg15",
+      "name": "Best-websites-a-programmer-should-visit",
+      "url": "https://github.com/sdmg15/Best-websites-a-programmer-should-visit",
+      "description": "🔗 Some useful websites for programmers.",
+      "stars": 23882,
+      "forks": 2653,
+      "currentPeriodStars": 204,
+      "builtBy": [
+        {
+          "username": "sdmg15",
+          "href": "https://github.com/sdmg15",
+          "avatar": "https://avatars3.githubusercontent.com/u/13077039"
+        },
+        {
+          "username": "ityler",
+          "href": "https://github.com/ityler",
+          "avatar": "https://avatars3.githubusercontent.com/u/1445831"
+        },
+        {
+          "username": "rachmadaniHaryono",
+          "href": "https://github.com/rachmadaniHaryono",
+          "avatar": "https://avatars3.githubusercontent.com/u/6340878"
+        },
+        {
+          "username": "lalitmee",
+          "href": "https://github.com/lalitmee",
+          "avatar": "https://avatars2.githubusercontent.com/u/10762218"
+        },
+        {
+          "username": "srinivasreddy",
+          "href": "https://github.com/srinivasreddy",
+          "avatar": "https://avatars0.githubusercontent.com/u/198396"
+        }
+      ]
+    },
+    {
+      "author": "SaraVieira",
+      "name": "fiddly",
+      "url": "https://github.com/SaraVieira/fiddly",
+      "description": "Create beautiful and simple HTML pages from your Readme.md files",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 446,
+      "forks": 11,
+      "currentPeriodStars": 210,
+      "builtBy": [
+        {
+          "username": "SaraVieira",
+          "href": "https://github.com/SaraVieira",
+          "avatar": "https://avatars3.githubusercontent.com/u/1051509"
+        },
+        {
+          "username": "BrunoScheufler",
+          "href": "https://github.com/BrunoScheufler",
+          "avatar": "https://avatars2.githubusercontent.com/u/4772980"
+        },
+        {
+          "username": "jamonholmgren",
+          "href": "https://github.com/jamonholmgren",
+          "avatar": "https://avatars1.githubusercontent.com/u/1479215"
+        },
+        {
+          "username": "siddharthkp",
+          "href": "https://github.com/siddharthkp",
+          "avatar": "https://avatars0.githubusercontent.com/u/1863771"
+        },
+        {
+          "username": "timothyis",
+          "href": "https://github.com/timothyis",
+          "avatar": "https://avatars3.githubusercontent.com/u/1695613"
+        }
+      ]
+    },
+    {
+      "author": "Snailclimb",
+      "name": "JavaGuide",
+      "url": "https://github.com/Snailclimb/JavaGuide",
+      "description": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 18028,
+      "forks": 5162,
+      "currentPeriodStars": 157,
+      "builtBy": [
+        {
+          "username": "Snailclimb",
+          "href": "https://github.com/Snailclimb",
+          "avatar": "https://avatars0.githubusercontent.com/u/29880145"
+        },
+        {
+          "username": "fanofxiaofeng",
+          "href": "https://github.com/fanofxiaofeng",
+          "avatar": "https://avatars3.githubusercontent.com/u/3983683"
+        },
+        {
+          "username": "Gene1994",
+          "href": "https://github.com/Gene1994",
+          "avatar": "https://avatars0.githubusercontent.com/u/24930369"
+        },
+        {
+          "username": "jiayangchen",
+          "href": "https://github.com/jiayangchen",
+          "avatar": "https://avatars2.githubusercontent.com/u/14312378"
+        },
+        {
+          "username": "liurongdev",
+          "href": "https://github.com/liurongdev",
+          "avatar": "https://avatars1.githubusercontent.com/u/29250579"
+        }
+      ]
+    },
+    {
+      "author": "swc-project",
+      "name": "swc",
+      "url": "https://github.com/swc-project/swc",
+      "description": "Super-fast alternative for babel written in rust",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 2432,
+      "forks": 38,
+      "currentPeriodStars": 173,
+      "builtBy": [
+        {
+          "username": "kdy1",
+          "href": "https://github.com/kdy1",
+          "avatar": "https://avatars3.githubusercontent.com/u/29931815"
+        },
+        {
+          "username": "rcoh",
+          "href": "https://github.com/rcoh",
+          "avatar": "https://avatars1.githubusercontent.com/u/492903"
+        },
+        {
+          "username": "viktor-ku",
+          "href": "https://github.com/viktor-ku",
+          "avatar": "https://avatars1.githubusercontent.com/u/12882743"
+        }
+      ]
+    },
+    {
+      "author": "i0natan",
+      "name": "nodebestpractices",
+      "url": "https://github.com/i0natan/nodebestpractices",
+      "description": "The largest Node.JS best practices list (November 2018)",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 21449,
+      "forks": 1513,
+      "currentPeriodStars": 157,
+      "builtBy": [
+        {
+          "username": "idori",
+          "href": "https://github.com/idori",
+          "avatar": "https://avatars2.githubusercontent.com/u/9084421"
+        },
+        {
+          "username": "i0natan",
+          "href": "https://github.com/i0natan",
+          "avatar": "https://avatars1.githubusercontent.com/u/8571500"
+        },
+        {
+          "username": "BrunoScheufler",
+          "href": "https://github.com/BrunoScheufler",
+          "avatar": "https://avatars2.githubusercontent.com/u/4772980"
+        },
+        {
+          "username": "MattJin",
+          "href": "https://github.com/MattJin",
+          "avatar": "https://avatars0.githubusercontent.com/u/4640540"
+        },
+        {
+          "username": "js-kyle",
+          "href": "https://github.com/js-kyle",
+          "avatar": "https://avatars0.githubusercontent.com/u/23022619"
+        }
+      ]
+    },
+    {
+      "author": "e-oj",
+      "name": "Magic-Grid",
+      "url": "https://github.com/e-oj/Magic-Grid",
+      "description": "A simple, lightweight Javascript library for dynamic grid layouts.",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 1270,
+      "forks": 51,
+      "currentPeriodStars": 160,
+      "builtBy": [
+        {
+          "username": "e-oj",
+          "href": "https://github.com/e-oj",
+          "avatar": "https://avatars0.githubusercontent.com/u/9700116"
+        },
+        {
+          "username": "Kiyozz",
+          "href": "https://github.com/Kiyozz",
+          "avatar": "https://avatars1.githubusercontent.com/u/12450333"
+        },
+        {
+          "username": "0xflotus",
+          "href": "https://github.com/0xflotus",
+          "avatar": "https://avatars0.githubusercontent.com/u/26602940"
+        },
+        {
+          "username": "imlinus",
+          "href": "https://github.com/imlinus",
+          "avatar": "https://avatars1.githubusercontent.com/u/2436222"
+        },
+        {
+          "username": "t3hmrman",
+          "href": "https://github.com/t3hmrman",
+          "avatar": "https://avatars1.githubusercontent.com/u/1085750"
+        }
+      ]
+    },
+    {
+      "author": "gto76",
+      "name": "python-cheatsheet",
+      "url": "https://github.com/gto76/python-cheatsheet",
+      "description": "Comprehensive Python Cheatsheet",
+      "language": "CSS",
+      "languageColor": "#563d7c",
+      "stars": 342,
+      "forks": 72,
+      "currentPeriodStars": 141,
+      "builtBy": [
+        {
+          "username": "gto76",
+          "href": "https://github.com/gto76",
+          "avatar": "https://avatars0.githubusercontent.com/u/1396046"
+        },
+        {
+          "username": "theconsultant",
+          "href": "https://github.com/theconsultant",
+          "avatar": "https://avatars0.githubusercontent.com/u/1421526"
+        },
+        {
+          "username": "tweakimp",
+          "href": "https://github.com/tweakimp",
+          "avatar": "https://avatars0.githubusercontent.com/u/20489521"
+        },
+        {
+          "username": "ri0t",
+          "href": "https://github.com/ri0t",
+          "avatar": "https://avatars3.githubusercontent.com/u/1938065"
+        }
+      ]
+    },
+    {
+      "author": "521xueweihan",
+      "name": "HelloGitHub",
+      "url": "https://github.com/521xueweihan/HelloGitHub",
+      "description": "分享 GitHub 上有趣、入门级的开源项目，帮你找到编程的乐趣。欢迎推荐、自荐项目，让更多人知道你的项目⭐️",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 8486,
+      "forks": 881,
+      "currentPeriodStars": 148,
+      "builtBy": [
+        {
+          "username": "521xueweihan",
+          "href": "https://github.com/521xueweihan",
+          "avatar": "https://avatars2.githubusercontent.com/u/8255800"
+        },
+        {
+          "username": "yaowenqiang",
+          "href": "https://github.com/yaowenqiang",
+          "avatar": "https://avatars3.githubusercontent.com/u/994371"
+        },
+        {
+          "username": "daixiang0",
+          "href": "https://github.com/daixiang0",
+          "avatar": "https://avatars1.githubusercontent.com/u/26538619"
+        }
+      ]
+    },
+    {
+      "author": "mogenslund",
+      "name": "liquid",
+      "url": "https://github.com/mogenslund/liquid",
+      "description": "Clojure Text Editor, for editing clojure code and markdown. Written entirely in Clojure with inspiration from Emacs and Vim.",
+      "language": "Clojure",
+      "languageColor": "#db5855",
+      "stars": 434,
+      "forks": 19,
+      "currentPeriodStars": 147,
+      "builtBy": [
+        {
+          "username": "mogenslund",
+          "href": "https://github.com/mogenslund",
+          "avatar": "https://avatars0.githubusercontent.com/u/7754224"
+        },
+        {
+          "username": "pieceofduke",
+          "href": "https://github.com/pieceofduke",
+          "avatar": "https://avatars0.githubusercontent.com/u/20400483"
+        },
+        {
+          "username": "Joe-Withey",
+          "href": "https://github.com/Joe-Withey",
+          "avatar": "https://avatars2.githubusercontent.com/u/12202750"
+        },
+        {
+          "username": "souenzzo",
+          "href": "https://github.com/souenzzo",
+          "avatar": "https://avatars1.githubusercontent.com/u/3241703"
+        },
+        {
+          "username": "jrheard",
+          "href": "https://github.com/jrheard",
+          "avatar": "https://avatars2.githubusercontent.com/u/108659"
+        }
+      ]
+    }
+  ]
+}

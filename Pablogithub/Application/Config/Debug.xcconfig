@@ -1,0 +1,15 @@
+//
+//  Debug.xcconfig
+//  Pablogithub
+//
+//  Created by Pablo Roca on 31/12/2018.
+//  Copyright © 2018 PR2Studio. All rights reserved.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+#include "Default.xcconfig"
+
+OTHER_SWIFT_FLAGS = $(DEFAULT_OTHER_SWIFT_FLAGS) -Onone
+EXCLUDED_SOURCE_FILE_NAMES = Stubs/* *Stubs.swift
+COPY_PHASE_STRIP = NO

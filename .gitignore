@@ -1,0 +1,45 @@
+# Finder droppings, in any directory.
+.DS_Store
+**/.DS_Store
+
+# Ignore user-specific workspace settings.
+**/xcuserdata/**
+**/*.xccheckout
+
+TheMobileGuideBootstrap/Frameworks/*
+
+*.xcscmblueprint
+
+# Ignore VIM buffers
+*.swp
+
+# Ignore tmp diff files
+*.orig 
+
+# Ignore AppCode project files.
+.idea
+
+# Ignore testing/coverage information.
+genstringsOutput.bundle
+*.gcn?
+*.gcda
+
+# Ignore the project build areas.
+/build
+derived-sources
+
+# 
+releases
+uia_results
+
+# Carthage
+Carthage
+
+# Fastlane
+fastlane/test_output
+fastlane/derived
+fastlane/build_log
+fastlane/report.xml
+
+# Cocoapods
+Pods
