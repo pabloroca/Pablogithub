@@ -14,7 +14,7 @@ struct APIConstants {
     static let EPTrending = "ZbqcVvLexRPUV/ge5Q5jYXs0k62qujuqUtIcMs0oJHPkAYj9RTb5Ki/SiOdH9ahYcbIky0MWmwDqg3cjSpg1pw=="
 
     /// personal token from account pabloapi - not disclosed
-    static let token = "v6fOLFpmpZZY6S3AiCTz0qcHYS+1r36tZpG/WAG9bXl0XqZlG6OIjGalpLUk2xWO"
+    static let token = "3HmAPFhEcEgtef7ZAazWhF/6qHAZv049/HWS+yk7vNlnir5zTnXpqv9acykBvM4O"
 
     /// EPUserInfo - /search/users?q=%@ in:login&amp;per_page=1
     static let EPUserInfo = "S8ntf3hGZ2QujnbNAve/Sab7HmEsdj+99JVqp+/Z95yUyUWoKdHHB+dLLTICTDe1"

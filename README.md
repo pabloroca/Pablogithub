@@ -13,13 +13,14 @@ carthage update --platform iOS
 3. **Run the app**. Open Pablogithub.xcodeprojworkspace and Command Key + R
 
 
-4. **Running tests**. Open Pablogithub.xcworkspace and Command Key + U
+4. **Running tests**. Open Pablogithub.xcworkspace, select Scheme Debug or Stubs and Command Key + U
 
 
 ## With more time
 
 - Build a sleeker UI. I mostly concentrate my efforts in Architecture.
 - I would cache data and store it locally
+- remove KingFisher and make own image cache solution
 - Fixes in UI tests
 - Revamp network layer removing AlamoFire and using latest iOS enhancements like waitsForConnectivity, multipath and so on.
 
